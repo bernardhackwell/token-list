@@ -34523,6 +34523,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GRwGkqJp5R4uTyGrNUPCcEPC1HwPKC3Ymfj4zFnSTJzS",
+      "symbol": "RTG",
+      "name": "CRoad to Glory",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sprle10101/sol4fee/main/logo.png",
+      "tags": [
+        "Jad-token"
+      ]
     }
   ],
   "version": {
